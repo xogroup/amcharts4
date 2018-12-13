@@ -1,7 +1,7 @@
 ## amCharts 4
 
-This is an official repository for amCharts 4 - the most advanced JavaScript
-dataviz library ever.
+You are now in possession of amCharts 4 - the most advanced JavaScript dataviz
+library ever.
 
 For a short overview of features, visit [this page](https://www.amcharts.com/v4).
 
@@ -10,10 +10,10 @@ For a short overview of features, visit [this page](https://www.amcharts.com/v4)
 
 |Directory|Description|
 |---------|-----------|
-|/dist/ember/|Official Ember plugin for amCharts 4|
-|/dist/es2015/|Compiled ES2015 modules|
-|/dist/script/|Compiled standalone JavaScript files|
-|/dist/src/|Source code for amCharts 4|
+|/|Root directory containing library files and related files|
+|/examples/|Collection of working examples|
+|/lang/|Translation files / locales|
+|/themes/|Theme files|
 
 
 ### Documentation
@@ -28,10 +28,6 @@ as class reference visit [V4 documentation website](https://www.amcharts.com/doc
 * [GitHub repository](https://github.com/amcharts/amcharts4)
 * [ZIP download](https://www.amcharts.com/download/download-v4/)
 
-
-### Source code
-
-This repository will contain full TypeScript source code for amCharts V4, once we're ready.
 
 ### Related packages
 
@@ -53,6 +49,11 @@ license, which supercedes any other license bundled with this package.
 If you don't hav a commercial license, the use of this software is covered by
 a freeware license. Refer to included LICENSE file. The license is also
 [available online](https://github.com/amcharts/amcharts4/blob/master/dist/script/LICENSE).
+
+
+### Making translations
+
+Please refer to [this tutorial](https://www.amcharts.com/docs/v4/tutorials/creating-translations/).
 
 
 ### Changelog
